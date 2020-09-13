@@ -1,7 +1,0 @@
-<html>
- <head>
- <title>My App</title>
- <body>
-  This is my app!
- </body>
-</html>
